@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81326668661",
+    "project_id": "goaltrackr-d9363",
+    "storage_bucket": "goaltrackr-d9363.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81326668661:android:cf175564ace9ed904bb13c",
+        "android_client_info": {
+          "package_name": "com.goaltrackr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgXxKxNyBXIfCAA6OboW4itW4o_P4oeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

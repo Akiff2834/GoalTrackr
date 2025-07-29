@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">81326668661</string>
+    <string name="google_api_key" translatable="false">AIzaSyCKgXxKxNyBXIfCAA6OboW4itW4o_P4oeg</string>
+    <string name="google_app_id" translatable="false">1:81326668661:android:cf175564ace9ed904bb13c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKgXxKxNyBXIfCAA6OboW4itW4o_P4oeg</string>
+    <string name="google_storage_bucket" translatable="false">goaltrackr-d9363.firebasestorage.app</string>
+    <string name="project_id" translatable="false">goaltrackr-d9363</string>
+</resources>
